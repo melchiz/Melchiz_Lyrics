@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="albums">
+        <item><string-array name ="Slave 1987">
+            <item>Slave</item>
+            <item>Let Jah Be Praised (Igzebier)</item>
+            <item>I\'ve Got You Babe</item>
+            <item>How Will I Know?</item>
+            <item>Rasta Man</item>
+            <item>Back To My Roots</item>
+            <item>The Hand That Giveth</item>
+            <item>Think About The Children</item>
+        </string-array></item>
+
+        <item><string-array name ="Together As One 1988">
+            <item>Together As One</item>
+            <item>On My Own</item>
+            <item>Women</item>
+            <item>Truth In The World</item>
+            <item>Children In The Streets</item>
+            <item>Jah Save Us</item>
+        </string-array></item>
+
+        <item><string-array name ="Prisoner 1989">
+            <item>War And Crime</item>
+            <item>Prisoner</item>
+            <item>False Prophets</item>
+            <item>Remember Me</item>
+            <item>Jah Live</item>
+            <item>Dracula</item>
+            <item>Reggae Strong</item>
+            <item>Don\'t Cry</item>
+        </string-array></item>
+
+        <item><string-array name ="Victims 1993">
+            <item>Different Colours / One People</item><item>
+            Lovers In A Dangerous Time</item><item>
+            Victims</item><item>
+            My World</item><item>
+            My Game</item><item>
+            Keep On Knocking</item><item>
+            Soldiers For Righteousness</item><item>
+            You Know (Where To Find Me)</item><item>
+            Johnny</item><item>
+            Little Heroes</item>
+        </string-array></item>
+
+        <item><string-array name ="Trinity 1995">
+            <item>Feel Irie</item><item>
+            Trinity</item><item>
+            Serious Reggae Business</item><item>
+            My Brother, My Enemy</item><item>
+            Rasta Man\'s Prayer</item><item>
+            Puppet Master</item><item>
+            Affirmative Action</item><item>
+            Big Boys Don\'t Cry</item><item>
+            Life In The Movies</item><item>
+            God Bless The Women</item><item>
+            You Got No Right</item>
+        </string-array></item>
+        
+        <item><string-array name ="Taxman 1997">
+            <item>Guns &amp; Roses</item><item>
+            Taxman</item><item>
+            Is This The Way</item><item>
+            Take It To Jah</item><item>
+            Mirror, Mirror</item><item>
+            We Love It</item><item>
+            You\'ve Got A Friend</item><item>
+            Kiss No Frog</item><item>
+            Well Fed Slave / Hungry Free Man</item><item>
+            Good Things</item><item>
+            Release Me</item><item>
+            I Want To Know What Love Is</item>
+        </string-array></item>
+
+        <item><string-array name ="The Way It Is 1999">
+            <item>Crying Games</item><item>
+            Crime And Corruption</item><item>
+            The Way It Is</item><item>
+            You Stand Alone</item><item>
+            Man In The City</item><item>
+            Let The Band Play On</item><item>
+            Man In The Mirror</item><item>
+            Rolling Stone</item><item>
+            Till You Lose It All</item><item>
+            The Show Goes On</item>
+        </string-array></item>
+
+        <item><string-array name = "Soul Taker 2001">
+            <item>Put A Little Love</item><item>
+            Romeo</item><item>
+            Sleeping Dogs</item><item>
+            Teach The World</item><item>
+            Soul Taker</item><item>
+            Money Money Money</item><item>
+            Is This Freedom</item><item>
+            Love Me (The Way I Am)</item><item>
+            Good Girl</item><item>
+            Fugitive</item><item>
+            Sins Of The Flesh</item>
+        </string-array></item>
+
+        <item><string-array name ="The Other Side 2003">
+            <item>Number In The Book</item><item>
+            The Other Side</item><item>
+            Ding Ding Licky Licky Bong</item><item>
+            Cool Down</item><item>
+            Family Ties</item><item>
+            Divorce Party</item><item>
+            Soldier</item><item>
+            Julie! Julie!</item><item>
+            The Bully</item><item>
+            Hero</item>
+        </string-array></item>
+
+        <item><string-array name = "Respect 2006">
+            <item>Respect</item><item>
+            Shut Up</item><item>
+            Political Games</item><item>
+            Changing World</item><item>
+            Shembe Is The Way</item><item>
+            Monster</item><item>
+            Celebrate Life</item><item>
+            The One</item><item>
+            Choose Your Friends</item><item>
+            Never Leave You</item><item>
+            Mask</item><item>
+            Touch Your Dreams</item><item>
+            other songs:</item><item>
+            Born To Suffer</item><item>
+            I Wanna Take You To Jamaica</item><item>
+            Mr. DJ</item><item>
+            Oh My Son (I\'m Sorry)</item><item>
+            Peace Perfect Peace</item><item>
+            Steel Bars</item><item>
+            Usizi</item>
+        </string-array></item>
+
+    </string-array>
+</resources>

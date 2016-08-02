@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="song_titles">
+        <item>I\'ve Got You Babe</item>
+        <item>Don\'t Cry</item>
+        <item>Reggae Strong</item>
+        <item>Dracula</item>
+        <item>Jah Live</item>
+
+        <item>Remember Me</item>
+        <item>False Prophets</item>
+        <item>Prisoner</item>
+        <item>War and Crime</item>
+        <item>Jah Save Us</item>
+
+        <item>Children In The Streets</item>
+        <item>Truth In The World</item>
+        <item>Women</item>
+        <item>On My Own</item>
+        <item>Together As One</item>
+
+        <item>Think About The Children</item>
+        <item>Hand That Giveth</item>
+        <item>Back To My Roots</item>
+        <item>Rastaman</item>
+        <item>How Will I Know?</item>
+
+        <item>Let Jah Be Praised (Igzebier)</item>
+        <item>Slave</item>
+    </string-array>
+</resources>
